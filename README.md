@@ -96,4 +96,24 @@ ORDER BY receita_total DESC;
   * Qual receita por categoria e percentual sobre o total?
   * Qual é o percentual de pedidos cancelados?
 
-Para validar as queries, consulte os prints no diretório.
+Para validar as queries, consulte os prints abaixo:  
+![imagem1](prints/img1.png)
+![imagem2](prints/img2.png)
+![imagem3](prints/img3.png)
+
+
+---
+
+## Tecnologias Utilizadas
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Habilidades Desenvolvidas
+- Modelagem de banco de dados relacional
+- Criação de esquema lógico no MySQL
+- Definição de chaves primárias, estrangeiras e constraints
+- Escrita de queries SQL com SELECT, JOIN, WHERE, CASE WHEN, GROUP BY,  ORDER BY
+- Geração de atributos derivados e métricas de negócio
+
+## Dúvidas ou sugestões?
